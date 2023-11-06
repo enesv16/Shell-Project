@@ -1,6 +1,8 @@
 In the project, I designed a custom shell interface with a unique prompt structure, and I
 implemented basic shell functionality, including process management, using the C
 technology
+
+
 **@Dosya Listesi**
 
 	shell.c: İlgili programı çalıştıran ve fonksiyon gövdelerini barındıran çalıştırılabilir program.
